@@ -10,7 +10,6 @@
 -I think it would not be wrong to say that datascientists are the modern day prophets---they are predicting using various tools.
 Accountants look toward the past--datascientists predict the future.
 
- I will upload my detailed notes they may help someone who is just getting started in datascience.
--Enough about me, better get back to studying. 
+ -Enough about me, better get back to studying. 
 
 --->
