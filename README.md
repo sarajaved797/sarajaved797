@@ -17,5 +17,5 @@ Interests: Data storytelling, ML for business impact, AI Ops, cost modeling
 
 📫 Let's connect:  
 
-[LinkedIn](www.linkedin.com/in/sara-javed-7b9a43226)
+[LinkedIn](https://www.linkedin.com/in/sara-javed-7b9a43226/)
 
