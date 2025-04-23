@@ -2,18 +2,20 @@
 
 ### About Me
 
-Hi there! I'm Sara, a **Data Analyst** with a growing interest in **Data Science**. I’m passionate about working with data to uncover insights and help make informed decisions. 
+**Hi there! I'm Sara — a Data Analyst evolving into a Data Scientist.**  
+I love turning raw data into meaningful insights and building tools that make decision-making easier and smarter.
 
-I have experience using **Excel**, **SQL**, and **Tableau** for data analysis and visualization, and I’m currently expanding my skills into **machine learning** and **Python** to transition into the data science field.
+I've worked on projects using **Excel, SQL, and Tableau**, and I’m now expanding into **Python and machine learning**. My recent work includes:
+- A full-featured **job offer comparison app** that helps job seekers make informed career moves
+- A creative in-progress app (“Say What?”) exploring how soft skills support company revenue  
+- Analytical projects on **consumer behavior**, **SaaS retention**, and **AI infrastructure cost efficiency**
 
-I'm particularly interested in projects that involve **AI workload optimization** and **energy forecasting**, where I can explore how data science can help solve real-world challenges.
+🔧 **Tech Stack**  
+Languages: Python, SQL  
+Tools: Excel, Tableau, Streamlit  
+Interests: Data storytelling, ML for business impact, AI Ops, cost modeling
 
-🔍 **Tech Stack**:
-- **Languages**: Python, SQL
-- **Tools**: Excel, Tableau
-- **Areas of Interest**: Data analysis, machine learning, AI infrastructure, cost analysis
+📫 Let's connect:  
 
-Feel free to check out my projects, and feel free to reach out if you’d like to collaborate or share advice!
-
-Thank you for stopping by.
+[LinkedIn](www.linkedin.com/in/sara-javed-7b9a43226)
 
