@@ -11,7 +11,7 @@ I've worked on projects using **Excel, SQL, and Tableau**, and I’m now expandi
 - Analytical projects on **consumer behavior**, **SaaS retention**, and **AI infrastructure cost efficiency**
 
 🔧 **Tech Stack**  
-Languages: Python, SQL  
+Languages: Python, Numpy, Pandas, SQL  
 Tools: Excel, Tableau, Streamlit  
 Interests: Data storytelling, ML for business impact, AI Ops, cost modeling
 
