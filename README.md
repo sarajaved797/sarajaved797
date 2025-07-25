@@ -3,6 +3,7 @@
 # 👋 Hi, I’m Sara
 
 **Revenue Operations & SaaS Data Analyst**  
+
 Blending accounting operations, SQL pipelines, and clear Tableau dashboards to help businesses understand recurring revenue, churn, and customer profitability.
 ---
 ### 🔑 What I Do
